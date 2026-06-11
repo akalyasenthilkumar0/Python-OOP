@@ -13,7 +13,7 @@ print(e.name)
 
 #-------------------------------------------------------------------------------------------------------------------
 
-#2.Private class variable
+#2.Protected class variable
 
 class Employee:
   def __init__(self):
@@ -24,7 +24,7 @@ print(e._name)
 
 #--------------------------------------------------------------------------------------------------------------------
 
-#3.Protected class variable 
+#3.Private class variable 
 
 class Employee:
   def __init__(self):
