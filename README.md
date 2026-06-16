@@ -20,5 +20,10 @@ It includes Object-Oriented Programming concepts in Python, along with practical
 
 The Goal of this Repository is to learn and practice OOP concept in Python through hands-on coding examples and projects.
 
+# Mini Project
+
+- Bank Mannagement System
+- Library Management System
+
 
 
